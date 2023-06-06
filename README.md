@@ -11,4 +11,4 @@ Technologies:
 <br>
 <br>
 <br>
-<img src="https://github.com/giulio-attilio/dev-club/blob/master/1st%20Project%20%5BWe%20Care%5D/Assets/Finished.png?raw=true">
+<img src="https://github.com/giulio-attilio/we-care-about-your-pet/blob/main/Finished.png?raw=true" alt="finished-print">
